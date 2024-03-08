@@ -77,3 +77,5 @@ function staircase(n) {
   
   // Exemplo de uso
   console.log(staircase(6));
+
+  //test
