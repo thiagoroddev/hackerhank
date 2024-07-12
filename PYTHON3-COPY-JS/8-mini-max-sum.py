@@ -68,3 +68,25 @@ Sum everything except
 
 """
 
+def miniMaxSum(arr):
+    # Step 1: Calculate the sum of all elements
+    sum_total = sum(arr)
+    
+    # Step 2: Find the minimum and maximum elements
+    min_value = arr[0]
+    max_value = arr[0]
+    for num in arr[1:]:
+        if num < min_value:
+            min_value = num
+        if num > max_value:
+            max_value = num
+    
+    # Step 3: Calculate minimum and maximum sums by excluding min and max respectively
+    min_sum = sum_total - max_value
+    max_sum = sum_total - min_value
+    
+    # Step 4: Print the minimum and maximum sums
+    print(min_sum, max_sum)
+
+# Example usage:
+miniMaxSum([1, 2, 3, 4, 5])  # Output: 10 14
