@@ -1,0 +1,15 @@
+D:\DEVTH\hackerrank\CSHARP\9-bitthday-cake-candles\bin\Debug\net8.0\9-bitthday-cake-candles.exe
+D:\DEVTH\hackerrank\CSHARP\9-bitthday-cake-candles\bin\Debug\net8.0\9-bitthday-cake-candles.deps.json
+D:\DEVTH\hackerrank\CSHARP\9-bitthday-cake-candles\bin\Debug\net8.0\9-bitthday-cake-candles.runtimeconfig.json
+D:\DEVTH\hackerrank\CSHARP\9-bitthday-cake-candles\bin\Debug\net8.0\9-bitthday-cake-candles.dll
+D:\DEVTH\hackerrank\CSHARP\9-bitthday-cake-candles\bin\Debug\net8.0\9-bitthday-cake-candles.pdb
+D:\DEVTH\hackerrank\CSHARP\9-bitthday-cake-candles\obj\Debug\net8.0\9-bitthday-cake-candles.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVTH\hackerrank\CSHARP\9-bitthday-cake-candles\obj\Debug\net8.0\9-bitthday-cake-candles.AssemblyInfoInputs.cache
+D:\DEVTH\hackerrank\CSHARP\9-bitthday-cake-candles\obj\Debug\net8.0\9-bitthday-cake-candles.AssemblyInfo.cs
+D:\DEVTH\hackerrank\CSHARP\9-bitthday-cake-candles\obj\Debug\net8.0\9-bitthday-cake-candles.csproj.CoreCompileInputs.cache
+D:\DEVTH\hackerrank\CSHARP\9-bitthday-cake-candles\obj\Debug\net8.0\9-bitthday-cake-candles.sourcelink.json
+D:\DEVTH\hackerrank\CSHARP\9-bitthday-cake-candles\obj\Debug\net8.0\9-bitthday-cake-candles.dll
+D:\DEVTH\hackerrank\CSHARP\9-bitthday-cake-candles\obj\Debug\net8.0\refint\9-bitthday-cake-candles.dll
+D:\DEVTH\hackerrank\CSHARP\9-bitthday-cake-candles\obj\Debug\net8.0\9-bitthday-cake-candles.pdb
+D:\DEVTH\hackerrank\CSHARP\9-bitthday-cake-candles\obj\Debug\net8.0\9-bitthday-cake-candles.genruntimeconfig.cache
+D:\DEVTH\hackerrank\CSHARP\9-bitthday-cake-candles\obj\Debug\net8.0\ref\9-bitthday-cake-candles.dll
