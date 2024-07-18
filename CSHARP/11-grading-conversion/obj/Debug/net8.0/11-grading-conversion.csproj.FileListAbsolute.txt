@@ -1,0 +1,15 @@
+D:\DEVTH\hackerrank\CSHARP\11-grading-conversion\obj\Debug\net8.0\11-grading-conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVTH\hackerrank\CSHARP\11-grading-conversion\obj\Debug\net8.0\11-grading-conversion.AssemblyInfoInputs.cache
+D:\DEVTH\hackerrank\CSHARP\11-grading-conversion\obj\Debug\net8.0\11-grading-conversion.AssemblyInfo.cs
+D:\DEVTH\hackerrank\CSHARP\11-grading-conversion\obj\Debug\net8.0\11-grading-conversion.csproj.CoreCompileInputs.cache
+D:\DEVTH\hackerrank\CSHARP\11-grading-conversion\obj\Debug\net8.0\11-grading-conversion.sourcelink.json
+D:\DEVTH\hackerrank\CSHARP\11-grading-conversion\bin\Debug\net8.0\11-grading-conversion.exe
+D:\DEVTH\hackerrank\CSHARP\11-grading-conversion\bin\Debug\net8.0\11-grading-conversion.deps.json
+D:\DEVTH\hackerrank\CSHARP\11-grading-conversion\bin\Debug\net8.0\11-grading-conversion.runtimeconfig.json
+D:\DEVTH\hackerrank\CSHARP\11-grading-conversion\bin\Debug\net8.0\11-grading-conversion.dll
+D:\DEVTH\hackerrank\CSHARP\11-grading-conversion\bin\Debug\net8.0\11-grading-conversion.pdb
+D:\DEVTH\hackerrank\CSHARP\11-grading-conversion\obj\Debug\net8.0\11-grading-conversion.dll
+D:\DEVTH\hackerrank\CSHARP\11-grading-conversion\obj\Debug\net8.0\refint\11-grading-conversion.dll
+D:\DEVTH\hackerrank\CSHARP\11-grading-conversion\obj\Debug\net8.0\11-grading-conversion.pdb
+D:\DEVTH\hackerrank\CSHARP\11-grading-conversion\obj\Debug\net8.0\11-grading-conversion.genruntimeconfig.cache
+D:\DEVTH\hackerrank\CSHARP\11-grading-conversion\obj\Debug\net8.0\ref\11-grading-conversion.dll

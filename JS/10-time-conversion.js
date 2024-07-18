@@ -55,7 +55,7 @@ function timeConversion(s) {
   console.log(s);
   return s;
 }
-timeConversion("01:01:10PM");
+timeConversion("05:59:59AM");
 
 // Sem método
 function timeConversionDois(s) {
@@ -81,10 +81,11 @@ function timeConversionDois(s) {
   // Construção manual da string resultante
   let result = hourString + s[2] + s[3] + s[4] + s[5] + s[6] + s[7];
 
+  console.log(result);
   return result;
 }
 
-timeConversionDois("01:01:10PM");
+timeConversionDois("05:59:59AM");
 /*
 12:01:00AM = 00:01:00 -
 01:00:00AM = 01:00:00
